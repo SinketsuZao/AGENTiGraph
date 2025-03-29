@@ -1,0 +1,315 @@
+﻿row_index,subject,relation,object
+0,番茄醬,屬於,非蔬菜
+0,Ketchup,belongs to,non-vegetables
+0,炸薯條,屬於,非蔬菜
+0,French fries,belongs to,non-vegetables
+0,花椰菜,屬於,蔬菜
+0,Cauliflower,belongs to,vegetables
+0,菇類,屬於,蔬菜
+0,Mushrooms,belongs to,vegetables
+0,番薯,食用限制,血糖需嚴格控制者需節制
+0,Sweet potatoes,dietary restriction,people who need strict blood sugar control should consume moderately
+0,澱粉類蔬菜,食用限制,血糖需嚴格控制者需節制
+0,Starchy vegetables,dietary restriction,people who need strict blood sugar control should consume moderately
+0,豌豆,屬於,蔬菜
+0,Peas,belongs to,vegetables
+0,胡蘿蔔,屬於,蔬菜
+0,Carrots,belongs to,vegetables
+0,豌豆,食用限制,不會導致肥胖
+0,Peas,dietary restriction,do not cause obesity
+0,胡蘿蔔,食用限制,不會導致肥胖
+0,Carrots,dietary restriction,do not cause obesity
+0,馬鈴薯,食用限制,糖分含量較高需注意
+0,Potatoes,dietary restriction,higher sugar content requires attention
+0,玉米,食用限制,糖分含量較高需注意
+0,Corn,dietary restriction,higher sugar content requires attention
+1,小白菜,屬於,甘藍菜家族
+1,Bok choy,belongs to,cabbage family
+1,小白菜,屬於,芸苔屬植物
+1,Bok choy,belongs to,Brassica genus
+1,小白菜,含有,吲哚素
+1,Bok choy,contains,indoles
+1,小白菜,含有,鈣
+1,Bok choy,contains,calcium
+1,小白菜,含有,鉀
+1,Bok choy,contains,potassium
+1,小白菜,含有,β-胡蘿蔔素
+1,Bok choy,contains,beta-carotene
+1,小白菜,含有,維生素A
+1,Bok choy,contains,vitamin A
+1,小白菜,含有,纖維質
+1,Bok choy,contains,dietary fiber
+1,小白菜,食用方式,生食
+1,Bok choy,cooking method,eaten raw
+1,小白菜,食用方式,快炒
+1,Bok choy,cooking method,stir-fried quickly
+1,小白菜,食用方式,蘸醬生吃
+1,Bok choy,cooking method,dipped in sauce and eaten raw
+1,綠花椰菜,屬於,蔬菜
+1,Broccoli,belongs to,vegetables
+1,綠花椰菜,具有,抗癌功效
+1,Broccoli,has,anticancer benefits
+2,花椰菜,屬於,十字花科蔬菜
+2,Cauliflower,belongs to,cruciferous vegetables
+2,花椰菜,屬於,芸苔屬植物
+2,Cauliflower,belongs to,Brassica genus plants
+2,小白菜,屬於,十字花科蔬菜
+2,Bok choy,belongs to,cruciferous vegetables
+2,高麗菜,屬於,十字花科蔬菜
+2,Cabbage,belongs to,cruciferous vegetables
+2,羽衣甘藍,屬於,十字花科蔬菜
+2,Kale,belongs to,cruciferous vegetables
+2,球莖甘藍,屬於,十字花科蔬菜
+2,Kohlrabi,belongs to,cruciferous vegetables
+2,瑞士菾菜,屬於,十字花科蔬菜
+2,Swiss chard,belongs to,cruciferous vegetables
+2,十字花科蔬菜,含有,異硫氰酸鹽
+2,Cruciferous vegetables,contains,isothiocyanates
+2,異硫氰酸鹽,具有,抗癌功效
+2,Isothiocyanates,has,anticancer benefits
+2,異硫氰酸鹽,具有,預防肺癌與食道癌的功效
+2,Isothiocyanates,has,the ability to prevent lung cancer and esophageal cancer
+2,異硫氰酸鹽,具有,降低腸胃癌風險的功效
+2,Isothiocyanates,has,the ability to reduce the risk of gastrointestinal cancer
+2,異硫氰酸鹽,具有,抑制腫瘤生成的特性
+2,Isothiocyanates,has,tumor-suppressing properties
+2,綠花椰菜,含有,抑制乳腺腫瘤的異硫氰酸鹽
+2,Broccoli,contains,isothiocyanates that inhibit breast tumors
+2,綠花椰菜,具有,抗癌功效
+2,Broccoli,has,anticancer benefits
+2,綠花椰菜,含有,吲哚-3-甲醇
+2,Broccoli,contains,indole-3-carbinol
+2,吲哚-3-甲醇,具有,強抗氧化功效
+2,Indole-3-carbinol,has,strong antioxidant properties
+2,吲哚-3-甲醇,具有,解毒酵素催化功效
+2,Indole-3-carbinol,has,detox enzyme catalytic properties
+2,吲哚-3-甲醇,具有,保護DNA組織的作用
+2,Indole-3-carbinol,has,the ability to protect DNA structures
+2,吲哚-3-甲醇,具有,降低乳癌與子宮頸癌風險的功效
+2,Indole-3-carbinol,has,the ability to reduce the risk of breast cancer and cervical cancer
+2,吲哚-3-甲醇,具有,提高良性雌激素代謝物比例的功效
+2,Indole-3-carbinol,has,the ability to increase the proportion of beneficial estrogen metabolites
+2,吲哚-3-甲醇,具有,防止殺蟲劑和毒素致癌影響的功效
+2,Indole-3-carbinol,has,the ability to prevent the carcinogenic effects of pesticides and toxins
+2,十字花科蔬菜,具有,有益男性健康的功效
+2,Cruciferous vegetables,has,health benefits for men
+2,綠花椰菜,具有,有益男性健康的功效
+2,Broccoli,has,health benefits for men
+2,美國癌症學會,推薦,食用綠花椰菜和其他十字花科蔬菜
+2,American Cancer Society,recommends,eating broccoli and other cruciferous vegetables
+3,吲哚-3-甲醇,食用限制,不推薦使用
+3,Indole-3-carbinol,dietary restriction,not recommended for use
+3,DIM（二吲哚甲烷）,屬於,吲哚-3-甲醇的代謝物
+3,DIM (diindolylmethane),belongs to,metabolite of indole-3-carbinol
+3,DIM（二吲哚甲烷）,食用方式,安全可靠的營養補充品
+3,DIM (diindolylmethane),cooking method,safe and reliable nutritional supplement
+3,綠花椰菜,屬於,十字花科蔬菜
+3,Broccoli,belongs to,cruciferous vegetables
+3,綠花椰菜,含有,蘿蔔硫素
+3,Broccoli,contains,sulforaphane
+3,蘿蔔硫素,具有,抗氧化功效
+3,Sulforaphane,has,antioxidant properties
+3,蘿蔔硫素,具有,提高第二相酵素活性
+3,Sulforaphane,has,ability to enhance phase-2 enzyme activity
+3,第二相酵素,具有,降低罹患攝護腺癌風險
+3,Phase-2 enzymes,has,ability to reduce prostate cancer risk
+3,綠花椰菜,具有,抗癌功效
+3,Broccoli,has,anticancer benefits
+3,綠花椰菜,含有,蛋白質
+3,Broccoli,contains,protein
+3,綠花椰菜,含有,纖維
+3,Broccoli,contains,fiber
+3,綠花椰菜,含有,鉀
+3,Broccoli,contains,potassium
+3,綠花椰菜,含有,鈣
+3,Broccoli,contains,calcium
+3,綠花椰菜,含有,維生素C
+3,Broccoli,contains,vitamin C
+3,綠花椰菜,含有,葉酸
+3,Broccoli,contains,folate
+3,綠花椰菜,含有,鎂
+3,Broccoli,contains,magnesium
+3,綠花椰菜,含有,磷
+3,Broccoli,contains,phosphorus
+3,綠花椰菜,含有,β-胡蘿蔔素
+3,Broccoli,contains,beta-carotene
+3,綠花椰菜,含有,維生素A
+3,Broccoli,contains,vitamin A
+3,綠花椰菜,含有,葉黃素
+3,Broccoli,contains,lutein
+3,綠花椰菜,含有,玉米黃質
+3,Broccoli,contains,zeaxanthin
+3,葉黃素,屬於,類胡蘿蔔素
+3,Lutein,belongs to,carotenoids
+3,玉米黃質,屬於,類胡蘿蔔素
+3,Zeaxanthin,belongs to,carotenoids
+3,葉黃素,具有,降低黃斑部退化風險
+3,Lutein,has,ability to reduce risk of macular degeneration
+3,玉米黃質,具有,降低黃斑部退化風險
+3,Zeaxanthin,has,ability to reduce risk of macular degeneration
+3,綠花椰菜莖部,含有,豐富營養
+3,Broccoli stems,contains,abundant nutrients
+3,綠花椰菜莖部,食用方式,削掉粗皮後可食用
+3,Broccoli stems,cooking method,edible after peeling off tough skin
+3,綠花椰菜葉子,含有,豐富營養
+3,Broccoli leaves,contains,abundant nutrients
+3,綠花椰菜葉子,食用方式,可食用
+3,Broccoli leaves,cooking method,edible
+4,白花椰菜,屬於,芸苔屬植物
+4,Cauliflower,belongs to,Brassica genus plants
+4,白花椰菜,含有,吲哚素
+4,Cauliflower,contains,indoles
+4,白花椰菜,含有,蘿蔔硫素
+4,Cauliflower,contains,sulforaphane
+4,蘿蔔硫素,屬於,異硫氰酸鹽
+4,Sulforaphane,belongs to,isothiocyanates
+4,蘿蔔硫素,具有,抗癌性
+4,Sulforaphane,has,anticancer properties
+4,蘿蔔硫素,具有,催化解毒酵素生成的能力
+4,Sulforaphane,has,ability to catalyze detoxification enzyme production
+4,蘿蔔硫素,具有,增強抗氧化防禦系統的功效
+4,Sulforaphane,has,ability to enhance antioxidant defense system
+4,十字花科蔬菜,含有,蘿蔔硫素
+4,Cruciferous vegetables,contains,sulforaphane
+4,十字花科蔬菜,含有,吲哚素
+4,Cruciferous vegetables,contains,indoles
+4,十字花科蔬菜,含有,異硫氰酸鹽類分子
+4,Cruciferous vegetables,contains,isothiocyanate molecules
+5,白花椰菜,屬於,十字花科蔬菜
+5,Cauliflower,belongs to,cruciferous vegetables
+5,白花椰菜,含有,纖維質
+5,Cauliflower,contains,dietary fiber
+5,白花椰菜,含有,維生素C
+5,Cauliflower,contains,vitamin C
+5,白花椰菜,含有,鉀
+5,Cauliflower,contains,potassium
+5,白花椰菜,含有,葉酸
+5,Cauliflower,contains,folate
+5,白花椰菜,含有,普林
+5,Cauliflower,contains,purine
+5,白花椰菜,具有,低熱量特性
+5,Cauliflower,has,low-calorie property
+5,白花椰菜,食用方式,可用作馬鈴薯替代品
+5,Cauliflower,cooking method,can be used as a potato substitute
+5,白花椰菜,食用方式,可加入奶油檸檬和海鹽製作料理
+5,Cauliflower,cooking method,"can be prepared with butter, lemon, and sea salt"
+5,白花椰菜,食用限制,痛風患者需適量
+5,Cauliflower,dietary restriction,people with gout should consume moderately
+5,羽衣甘藍,屬於,綠葉蔬菜
+5,Kale,belongs to,leafy vegetables
+5,羽衣甘藍,具有,高營養價值
+5,Kale,has,high nutritional value
+6,羽衣甘藍,屬於,芸苔屬植物
+6,Kale,belongs to,Brassica genus plants
+6,羽衣甘藍,含有,吲哚素
+6,Kale,contains,indoles
+6,羽衣甘藍,含有,蘿蔔硫素
+6,Kale,contains,sulforaphane
+6,蘿蔔硫素,具有,促發解毒酵素的能力
+6,Sulforaphane,has,ability to activate detoxifying enzymes
+6,蘿蔔硫素,具有,抗癌功效
+6,Sulforaphane,has,anticancer benefits
+6,吲哚素,具有,預防乳癌、子宮頸癌和腸癌的功效
+6,Indoles,has,"ability to prevent breast cancer, cervical cancer, and colon cancer"
+6,羽衣甘藍,食用方式,適合做成生菜沙拉
+6,Kale,cooking method,suitable for making raw salads
+6,羽衣甘藍,食用方式,可與杏仁、紅椒絲等材料拌食
+6,Kale,cooking method,"can be mixed with almonds, red pepper strips, etc."
+6,羽衣甘藍,食用方式,可加入松子和小紅莓並滴上橄欖油
+6,Kale,cooking method,"can be combined with pine nuts and cranberries, then drizzled with olive oil"
+7,羽衣甘藍,含有,鈣質
+7,Kale,contains,calcium
+7,羽衣甘藍,含有,鐵
+7,Kale,contains,iron
+7,羽衣甘藍,含有,維生素A
+7,Kale,contains,vitamin A
+7,羽衣甘藍,含有,維生素C
+7,Kale,contains,vitamin C
+7,羽衣甘藍,含有,維生素K
+7,Kale,contains,vitamin K
+7,羽衣甘藍,含有,β-胡蘿蔔素
+7,Kale,contains,beta-carotene
+7,羽衣甘藍,含有,葉黃素
+7,Kale,contains,lutein
+7,羽衣甘藍,含有,玉米黃質
+7,Kale,contains,zeaxanthin
+7,羽衣甘藍,含有,蛋白質
+7,Kale,contains,protein
+7,羽衣甘藍,含有,纖維
+7,Kale,contains,fiber
+7,球花甘藍,屬於,十字花科蔬菜
+7,Kohlrabi,belongs to,cruciferous vegetables
+7,球花甘藍,含有,類黃酮
+7,Kohlrabi,contains,flavonoids
+7,球花甘藍,含有,蘿蔔硫素
+7,Kohlrabi,contains,sulforaphane
+7,球花甘藍,含有,吲哚素
+7,Kohlrabi,contains,indoles
+7,球花甘藍,具有,預防細胞老化的功效
+7,Kohlrabi,has,anti-aging benefits for cells
+7,球花甘藍,具有,預防癌症的功效
+7,Kohlrabi,has,anticancer benefits
+7,蘿蔔硫素,具有,誘發酵素作用以防止腫瘤生成的功效
+7,Sulforaphane,has,ability to induce enzymatic activity to prevent tumor formation
+7,類黃酮,具有,促進健康的生物特質
+7,Flavonoids,has,health-promoting biological properties
+7,球花甘藍,含有,維生素A
+7,Kohlrabi,contains,vitamin A
+7,球花甘藍,含有,β-胡蘿蔔素
+7,Kohlrabi,contains,beta-carotene
+7,球花甘藍,含有,葉黃素
+7,Kohlrabi,contains,lutein
+7,球花甘藍,含有,玉米黃質
+7,Kohlrabi,contains,zeaxanthin
+7,球花甘藍,具有,增加免疫力的功效
+7,Kohlrabi,has,immunity-boosting benefits
+7,球花甘藍,具有,促進骨骼生長的功效
+7,Kohlrabi,has,benefits for bone growth
+7,球花甘藍,具有,預防視網膜黃斑部病變的功效
+7,Kohlrabi,has,ability to prevent macular degeneration
+7,球花甘藍,含有,葉酸
+7,Kohlrabi,contains,folate
+7,球花甘藍,含有,鈣
+7,Kohlrabi,contains,calcium
+7,球花甘藍,含有,鉀
+7,Kohlrabi,contains,potassium
+7,球花甘藍,含有,維生素C
+7,Kohlrabi,contains,vitamin C
+7,球花甘藍,含有,纖維
+7,Kohlrabi,contains,fiber
+7,球花甘藍,食用方式,可生食或熟食
+7,Kohlrabi,cooking method,can be eaten raw or cooked
+7,球花甘藍,食用限制,味道濃烈可能不適合所有人
+7,Kohlrabi,dietary restriction,strong flavor may not suit everyone
+8,球莖甘藍,屬於,十字花科蔬菜
+8,Kohlrabi,belongs to,cruciferous vegetables
+8,球莖甘藍,含有,吲哚素
+8,Kohlrabi,contains,indoles
+8,球莖甘藍,含有,蘿蔔硫素
+8,Kohlrabi,contains,sulforaphane
+8,球莖甘藍,含有,異硫氰酸鹽
+8,Kohlrabi,contains,isothiocyanates
+8,球莖甘藍,含有,維生素C
+8,Kohlrabi,contains,vitamin C
+8,球莖甘藍,含有,鉀
+8,Kohlrabi,contains,potassium
+8,球莖甘藍,含有,膳食纖維
+8,Kohlrabi,contains,dietary fiber
+8,球莖甘藍,具有,抗癌功效
+8,Kohlrabi,has,anticancer benefits
+8,球莖甘藍,食用方式,生食
+8,Kohlrabi,cooking method,eaten raw
+8,球莖甘藍,食用方式,熟食
+8,Kohlrabi,cooking method,cooked
+8,球莖甘藍,食用方式,汆燙
+8,Kohlrabi,cooking method,blanched
+8,球莖甘藍,食用方式,炒
+8,Kohlrabi,cooking method,stir-fried
+8,球莖甘藍,食用方式,搭配義大利麵
+8,Kohlrabi,cooking method,paired with pasta
+8,球莖甘藍,食用方式,搭配無花果乾與松子
+8,Kohlrabi,cooking method,paired with dried figs and pine nuts
+8,球莖甘藍,食用方式,搭配軟酪或鹹羊奶起司
+8,Kohlrabi,cooking method,paired with soft cheese or salty sheep milk cheese
+8,球莖甘藍,食用方式,撒上現磨胡椒
+8,Kohlrabi,cooking method,sprinkled with freshly ground pepper

@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(240, 238, 229, 0.5);
+}
+
+.canvas {
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.App-header {
+  height: 40px;
+  color: #012027;
+  padding: 8px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.MuiFormLabel-root {
+  color: #012027 !important;
+}
+
+.MuiInput-underline:before {
+  border-bottom-color: #012027 !important;
+}
+
+.MuiInput-underline:hover:before {
+  border-bottom-color: #012027 !important;
+}
+
+.MuiIconButton-root {
+  color: #012027 !important;
+}
+
+.MuiInputBase-input {
+  color: #012027 !important;
+}
+
+.MuiAutocomplete-root {
+  margin-top: 24px;
+  margin-bottom: 40px;
+  margin-right: 32px;
+}
